@@ -1,0 +1,23 @@
+{
+  "name": "ex3_moment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanay2098/patel_hw9a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanay2098/patel_hw9a/issues"
+  },
+  "homepage": "https://github.com/tanay2098/patel_hw9a#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
